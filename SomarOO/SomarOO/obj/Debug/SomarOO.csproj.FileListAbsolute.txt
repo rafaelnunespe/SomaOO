@@ -1,0 +1,10 @@
+C:\Users\negro\source\repos\SomarOO\SomarOO\bin\Debug\SomarOO.exe.config
+C:\Users\negro\source\repos\SomarOO\SomarOO\bin\Debug\SomarOO.exe
+C:\Users\negro\source\repos\SomarOO\SomarOO\bin\Debug\SomarOO.pdb
+C:\Users\negro\source\repos\SomarOO\SomarOO\obj\Debug\SomarOO.csprojAssemblyReference.cache
+C:\Users\negro\source\repos\SomarOO\SomarOO\obj\Debug\SomarOO.Somar.resources
+C:\Users\negro\source\repos\SomarOO\SomarOO\obj\Debug\SomarOO.Properties.Resources.resources
+C:\Users\negro\source\repos\SomarOO\SomarOO\obj\Debug\SomarOO.csproj.GenerateResource.cache
+C:\Users\negro\source\repos\SomarOO\SomarOO\obj\Debug\SomarOO.csproj.CoreCompileInputs.cache
+C:\Users\negro\source\repos\SomarOO\SomarOO\obj\Debug\SomarOO.exe
+C:\Users\negro\source\repos\SomarOO\SomarOO\obj\Debug\SomarOO.pdb
